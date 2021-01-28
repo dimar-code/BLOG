@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" type="text/css" href="/css/app.css">
-    <title> SERVI-FLASH</title>
+    <title> TAXI CHURRO</title>
 </head>
 <body style="Background: url('movil.jpg') no-repeat; background-size: cover;" >
     <header>
