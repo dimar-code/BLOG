@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" type="text/css" href="/css/app.css">
-    <title> TAXI CHURRO  modificado</title>
+    <title> TAXI CHURRO1</title>
 </head>
 <body style="Background: url('movil.jpg') no-repeat; background-size: cover;" >
     <header>
