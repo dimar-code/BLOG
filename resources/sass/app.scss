@@ -1,0 +1,15 @@
+// @import url("https//fonts.googleapis.com/css?family=raleway:300,400,600");
+
+// @import "variables";
+
+// @import "node_modules_bootstrap-sass/assets/stylesheets/bootstrap";
+
+nav{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+  }
+.active{
+    text-decoration: none;
+    color: green;
+}
